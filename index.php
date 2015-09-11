@@ -39,7 +39,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a class="navbar-brand" href="#">CSCI E-15 | Brian Kestenholz | Class Projects</a>
+                <a class="navbar-brand" href="#">CSCI E-15 Course Projects</a>
             </div>
             <div id="navbar" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">

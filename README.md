@@ -1,7 +1,16 @@
 # Project 1 Course Landing Page
 
+## Author
+Brian Kestenholz
+
+## Email
+briankesten@yahoo.com
+
 ## Live URL
 <http://p1.netcaredata.com>
+
+## GitHub HTTPS Address
+<https://github.com/briankesten/p1>
 
 ## Description
 This project is the landing page for the CSCI E-15 course projects for Brian Kestenholz. It contains all the details related to each project.
