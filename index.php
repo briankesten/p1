@@ -124,7 +124,7 @@
             </table>
         </div>
         <div class="col-md-5">
-            <img class="featurette-image img-responsive center-block" width="70%" height="70%" src="img/lock.png"
+            <img class="featurette-image img-responsive center-block" src="img/lock.png"
                  alt="Password Generator">
         </div>
     </div>
