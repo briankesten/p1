@@ -112,7 +112,7 @@
                 </tr>
                 <tr>
                     <td>Screencast</td>
-                    <td><a href="http://p2.netcaredata.com/screencast.mp4">http://p2.netcaredata.com/screencast.mp4</a>
+                    <td><a href="http://screencast.com/t/kteJLcOSiI">http://screencast.com/t/kteJLcOSiI</a>
                     </td>
                 </tr>
                 <tr>
