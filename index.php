@@ -133,7 +133,7 @@
 
     <div id="project-3" class="row featurette">
         <div class="col-md-7 col-md-push-5">
-            <h3 class="featurette-heading">Project 3: <span class="text-muted">Developer's Best Friend</span></h3>
+            <h3 class="featurette-heading">Project 3: <span class="text-muted">DEV PAL - Developer's Best Friend</span></h3>
 
             <p class="lead">This web development project will focus on utilizing the Laravel framework. Below
                 is the information for Project 3. </p>
@@ -161,12 +161,12 @@
                 </tr>
                 <tr>
                     <td>Screencast</td>
-                    <td><a href="http://p3.netcaredata.com/screencast.mp4">http://p3.netcaredata.com/screencast.mp4</a>
+                    <td><a href="http://www.screencast.com/t/jDz4uKbCu">http://www.screencast.com/t/jDz4uKbCu</a>
                     </td>
                 </tr>
                 <tr>
                     <td>README.md File</td>
-                    <td><a href="http://p3.netcaredata.com/README.md">http://p3.netcaredata.com/README.md</a>
+                    <td><a href="https://github.com/briankesten/p3/blob/master/readme.md">https://github.com/briankesten/p3/blob/master/readme.md</a>
                     </td>
                 </tr>
                 </tbody>
