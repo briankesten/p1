@@ -211,12 +211,12 @@
                 </tr>
                 <tr>
                     <td>Screencast</td>
-                    <td><a href="http://p4.netcaredata.com/screencast.mp4">http://p4.netcaredata.com/screencast.mp4</a>
+                    <td><a href="http://screencast.com/t/04mBe1JPO">http://screencast.com/t/04mBe1JPO</a>
                     </td>
                 </tr>
                 <tr>
                     <td>README.md File</td>
-                    <td><a href="http://p4.netcaredata.com/README.md">http://p4.netcaredata.com/README.md</a>
+                    <td><a href="https://github.com/briankesten/p4.git">https://github.com/briankesten/p4.git</a>
                     </td>
                 </tr>
                 </tbody>
